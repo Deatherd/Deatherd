@@ -55,7 +55,3 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,alpine,arch"/></td>
     </tr>
 </table>
-
-------
-[RResabala2015](https://github.com/RResabala2015)
-26/07/2024
