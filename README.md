@@ -24,7 +24,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,net,python,spring,maven,hibernate,nodejs,fastapi,flask,nginx"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,cs,net,python,spring,maven,hibernate,nodejs,fastapi,flask,nginx"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
